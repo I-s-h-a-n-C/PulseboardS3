@@ -27,7 +27,10 @@ This is an ESP32 S3 based Devboard, designed to be used in conjunction with EMGs
 <img width="1214" height="746" alt="image" src="https://github.com/user-attachments/assets/34fb2476-796e-4b10-b991-fb37a4cc59ec" />
 
 ### Order
-<img width="1918" height="775" alt="image" src="https://github.com/user-attachments/assets/d08583d7-bcbf-4770-877d-68fcb87ca8e2" />
+<img width="1750" height="738" alt="Screenshot 2025-12-14 203930" src="https://github.com/user-attachments/assets/9372671b-faec-4a03-978c-89f9c5d6e4ac" />
+<img width="1918" height="860" alt="image" src="https://github.com/user-attachments/assets/076569b3-7301-4407-b2db-f3404960369a" />
+
+
 
 
 
